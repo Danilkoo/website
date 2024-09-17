@@ -1,0 +1,17 @@
+body {
+    background-color: #FFF8E8;
+    font-family: "Roboto Mono", monospace;
+    color: black;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: gray;
+}
+
+#nav {
+
+}
